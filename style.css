@@ -1,8 +1,19 @@
 body {
-    background-color: #F1EFDC;
+    background-color: #647E68;
+}
+.card {
+    background-color: #eeeeee87;
 }
 
 h1 {
     font-family: 'Passions Conflict', cursive;
+    color: rgb(190, 202, 227);
     
+}
+nav>a.filter-btn {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(190, 202, 227);
+}
+nav>a.filter-btn:focus {
+    color: #252f26;
 }
